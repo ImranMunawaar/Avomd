@@ -1,0 +1,1 @@
+echo "export const commitNumber = '`git rev-parse HEAD`';" > commitInfo.js
