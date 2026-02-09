@@ -1,0 +1,64 @@
+{
+  "activeReleaseTarget": "initial_ios",
+  "targets": {
+    "dev" : {
+      "defaultInitialChannels": [ "avomd_dev" ],
+      "modules": [],
+      "description": "",
+      "inapp" : {}
+    },
+    "covid" : {
+      "defaultInitialChannels": [ "covid19" ],
+      "modules": [],
+      "description": "",
+      "inapp" : {}
+    },
+    "initial_ios" : {
+      "defaultInitialChannels": [ "avomd_public", "aafpofficial", "childrensminnesotapublic", "scct", "ahaall", "mountsinaiofficial", "missioncureofficial", "geisingerpedserpublic" ],
+      "modules": [],
+      "description": "",
+      "inapp" : {}
+    },
+    "initial_android": {
+      "defaultInitialChannels": [ "avomd_public_android" ],
+      "modules": [],
+      "description": "",
+      "inapp" : {}
+    },
+    "demo_release_1": {
+      "defaultInitialChannels": [ "avomd_universal" ],
+      "modules": [],
+      "description": "",
+      "inapp" : {}
+    },
+    "test_0001": {
+      "defaultInitialChannels": [ "avomd_universal", "bidmc_plymouth" ],
+      "modules": [],
+      "description": "",
+      "inapp" : {}
+    },
+    "test_0002": {
+      "defaultInitialChannels": ["bidmc_plymouth" ],
+      "modules": [],
+      "description": "",
+      "inapp" : {}
+    },
+    "smc_release_1": {
+      "defaultInitialChannels": [ "samsung", "samsung_generic" ],
+      "modules:": [],
+      "description": "SMC",
+      "inapp" : {}
+    },
+    "release0001": {
+      "defaultInitialChannels": [ "avomd_universal", "bidmc_plymouth"],
+      "description": "Testing the release configuration function",
+      "inapp:": {
+        "pneumonia": {
+          "ios_price": 7.9,
+          "android_price": 7.9
+        }
+      }
+    }
+  }
+}
+

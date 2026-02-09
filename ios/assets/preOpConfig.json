@@ -1,0 +1,45 @@
+{
+  "preop": {
+    "onboardTitleLine1": "AvoMD",
+    "onboardTitleLine2": "for Preoperative Evaluation",
+    "tryOnceAvailable": true,
+    "authorDescription": "Dr. Steven Cohn et al.",
+    "authorList": [
+      {
+        "name": "Steven Cohn MD",
+        "authorType": "Corresponding Author",
+        "photo": "photo_cohn",
+        "description": "Dr. Cohn is a Professor of Clinical Medicine and Medical Director of the UHealth Preoperative Assessment Center (UPAC) and the Medical Consultation Service at the University of Miami Hospital – Miller School of Medicine, having recently relocated to Miami after 30 years at the State University of New York – Downstate Medical Center in Brooklyn. He was the former Chief of the Division of General Internal Medicine and also the Director of the Preoperative Medical Consultation Clinic and Medical Consultation Service at Kings County Hospital Center."
+      },
+      {
+        "name": "Joongheum Park MD",
+        "authorType": "First Author",
+        "description": "Dr. Park is great",
+        "photo": "photo_pj"
+      },
+      {
+        "name": "Jeehoon Jang MD",
+        "authorType": "First Author",
+        "description": "Dr. Jang is great",
+        "photo": "photo_jang"
+      }
+    ]
+  },
+  "channels": [
+    "preop"
+  ],
+  "placeholderModules": [
+    {
+      "title": "Preoperaive Pulmonary Evaluation",
+      "authors": "Dr. Cohn at al,"
+    },
+    {
+      "title": "Preop Evaluation, Targeting inpatient settings",
+      "authors": "Dr. Cohn at al,"
+    }
+  ],
+  "price": {
+    "individual": "9.99",
+    "institutional": "6.99"
+  }
+}

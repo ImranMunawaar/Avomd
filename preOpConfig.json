@@ -1,0 +1,65 @@
+{
+  "preop": {
+    "onboardTitleLine1": "AvoMD",
+    "onboardTitleLine2": "for Preoperative Evaluation",
+    "tryOnceAvailable": true,
+    "authorDescription": "Dr. Steven Cohn et al.",
+    "authorList": [
+      {
+        "name": "Steven Cohn MD, MACP, SFHM",
+        "authorType": "Corresponding Author",
+        "photo": "photo_cohn",
+        "description": "Dr. Cohn is a Professor Emeritus and former Medical Director of the UHealth Preoperative Assessment Center (UPAC) and the Medical Consultation Service at the University of Miami Hospital – Miller School of Medicine, having recently relocated to Miami after 30 years at the State University of New York – Downstate Medical Center in Brooklyn. He was the former Chief of the Division of General Internal Medicine and also the Director of the Preoperative Medical Consultation Clinic and Medical Consultation Service at Kings County Hospital Center."
+      },
+      {
+        "name": "Jeehoon Jang MD",
+        "authorType": "Co-first Author",
+        "description": "Dr. Jang is an Internal Medicine trained physician-informatician. He's been working on mobile app development on clinical decision support in Clinical Informatics at the Univ. of Washington fellowship program.",
+        "photo": "photo_jang"
+      },
+      {
+        "name": "Joongheum Park MD",
+        "authorType": "Co-first Author",
+        "description": "Dr. Park is a practicing board-certified internal medicine physician and clinical informatician. He is a hospitalist and the Associated Harvard Medical Faculty (AHMFP) at Beth Israel Deaconess Medical Center (BIDMC). He was an internist/clinical informatics fellow at New York Presbyterian-Columbia University Medical Center (“CUMC”), was on the executive board of the National Association of Clinical Informatics Fellows.",
+        "photo": "photo_pj"
+      },
+      {
+        "name": "Yair Saperstein MD, MPH",
+        "authorType": "Third Author",
+        "description": "Dr. Saperstein is a board certified internal medicine physician, affiliated with Mount Sinai Hospital. He is a member of Alpha Omega Alpha (AOA), and graduated from Albert Einstein College of Medicine with distinction in research in global health. He served as the inpatient medicine Chief Resident at Kings County Hospital through the first wave of the COVID pandemic.",
+        "photo": "photo_yair"
+      }
+    ]
+  },
+  "channels": ["preop"],
+  "placeholderModules": [
+    {
+      "title": "Preoperative Pulmonary Evaluation",
+      "author": "Team AvoMD at al,"
+    },
+    {
+      "title": "Preoperative Evaluation (for inpatient)",
+      "author": "Team AvoMD at al,"
+    }
+  ],
+  "subscriptionDurationMonth": "12"
+  ,
+  "price": {
+    "individual": "19.99",
+    "institutional": "14.99"
+  },
+  "redeemCodes": [
+  	{
+
+		"name": "longerPriod",
+  		"months": 6,
+  		"codes": [ "bidfriends", "welcomepreop", "spaqifriends", "sinaifriends" ]
+  	},
+  	{
+  		"name": "shorterPeriod",
+  		"months": 3,
+  		"codes": [ "startpreop" ]
+
+  	}
+  ]
+}

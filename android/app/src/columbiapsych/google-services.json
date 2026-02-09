@@ -1,0 +1,175 @@
+{
+  "project_info": {
+    "project_number": "241855441634",
+    "firebase_url": "https://avomd-playground.firebaseio.com",
+    "project_id": "avomd-playground",
+    "storage_bucket": "avomd-playground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241855441634:android:6816285e214ce354",
+        "android_client_info": {
+          "package_name": "com.avomd.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241855441634-6og64lul2tmnf5625nilmrjet02gkujt.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avomd.client",
+            "certificate_hash": "e7c932f5cb20187dddba70169cd0ecccfcb5f135"
+          }
+        },
+        {
+          "client_id": "241855441634-jtvursbbq0gvpbr8fvns8v15p2dqsjme.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avomd.client",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "241855441634-g621e6a93itaqbd8o5pp1ckjt18sefnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgPoZvaz6ADUyobrg_VFfYhltCMQ9Zk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241855441634-g621e6a93itaqbd8o5pp1ckjt18sefnb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241855441634-39t4fe9m1ehickoivps91n9l7reintlj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241855441634:android:2ac17440bf3dab07704cbb",
+        "android_client_info": {
+          "package_name": "com.avomd.columbiapsych"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241855441634-1cnagh9l7rt3tat0l79s3hjpgpagr1k1.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avomd.columbiapsych",
+            "certificate_hash": "5e8f16062ea3cd2c4a0d547876baa6f38cabf625"
+          }
+        },
+        {
+          "client_id": "241855441634-gkh87jir5rs454lqijau5sa7ao1s9fgj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avomd.columbiapsych",
+            "certificate_hash": "e7c932f5cb20187dddba70169cd0ecccfcb5f135"
+          }
+        },
+        {
+          "client_id": "241855441634-s5rer1oicee31ljdemgkmbf2mae4jmnu.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avomd.columbiapsych",
+            "certificate_hash": "f688b64e590105bf4bbc33345b6287d3b79cdb0e"
+          }
+        },
+        {
+          "client_id": "241855441634-g621e6a93itaqbd8o5pp1ckjt18sefnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgPoZvaz6ADUyobrg_VFfYhltCMQ9Zk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241855441634-g621e6a93itaqbd8o5pp1ckjt18sefnb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241855441634-39t4fe9m1ehickoivps91n9l7reintlj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241855441634:android:6749f21e1a2ed14d704cbb",
+        "android_client_info": {
+          "package_name": "com.avomd.preop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241855441634-mtks74nfb1j8k4u0plrdfsqm9jfp3be3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avomd.preop",
+            "certificate_hash": "bc2eb8d7e93f11ad97feecc67ca72c1cec7d3bf5"
+          }
+        },
+        {
+          "client_id": "241855441634-up6n2e3lch1v5lqgljq29tu47ddcc040.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.avomd.preop",
+            "certificate_hash": "8d6a9dec618004bcbe388cb8cc65fca3fd3e5233"
+          }
+        },
+        {
+          "client_id": "241855441634-g621e6a93itaqbd8o5pp1ckjt18sefnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgPoZvaz6ADUyobrg_VFfYhltCMQ9Zk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241855441634-g621e6a93itaqbd8o5pp1ckjt18sefnb.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241855441634-39t4fe9m1ehickoivps91n9l7reintlj.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "host.exp.exponent"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

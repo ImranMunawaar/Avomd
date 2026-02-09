@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>241855441634-dknns3hvjqvfq2jtu4upip9ifmkn5soa.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.241855441634-dknns3hvjqvfq2jtu4upip9ifmkn5soa</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>241855441634-1cnagh9l7rt3tat0l79s3hjpgpagr1k1.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyCNykL3fbZqgTVktlK69V_PE4F4aW7NixY</string>
+	<key>GCM_SENDER_ID</key>
+	<string>241855441634</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.synapticmed.siabg2016</string>
+	<key>PROJECT_ID</key>
+	<string>avomd-playground</string>
+	<key>STORAGE_BUCKET</key>
+	<string>avomd-playground.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:241855441634:ios:aca5734f1e654899704cbb</string>
+	<key>DATABASE_URL</key>
+	<string>https://avomd-playground.firebaseio.com</string>
+</dict>
+</plist>

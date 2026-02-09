@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "241855441634",
+    "firebase_url": "https://avomd-playground.firebaseio.com",
+    "project_id": "avomd-playground",
+    "storage_bucket": "avomd-playground.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:241855441634:android:6816285e214ce354",
+        "android_client_info": {
+          "package_name": "com.avomd.client"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "241855441634-g621e6a93itaqbd8o5pp1ckjt18sefnb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDfgPoZvaz6ADUyobrg_VFfYhltCMQ9Zk4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "241855441634-rlioodme307rsgl6l2fmrdf07s1c0ruq.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "241855441634-s6q8o0uea1rmk9o8ceqvmij74s9sn6l9.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.avomd.testing"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,13 @@
+diff --git a/node_modules/react-native/scripts/react_native_pods.rb b/node_modules/react-native/scripts/react_native_pods.rb
+index 8819959..9fd9ae5 100644
+--- a/node_modules/react-native/scripts/react_native_pods.rb
++++ b/node_modules/react-native/scripts/react_native_pods.rb
+@@ -27,7 +27,7 @@ $START_TIME = Time.now.to_i
+ # By using this function, you won't have to manualy change your Podfile
+ # when we change the minimum version supported by the framework.
+ def min_ios_version_supported
+-  return '12.4'
++  return '13.0'
+ end
+ 
+ # This function prepares the project for React Native, before processing
